@@ -1,0 +1,52 @@
+AMERICA
+./graphics/spriteamerica.bmp
+20 21
+3
+3 200 1
+1 200 1
+2 200 1
+
+ENGLAND
+./graphics/spriteengland.bmp
+20 21
+3
+3 200 1
+1 200 1
+2 200 1
+
+ITALY
+./graphics/spriteitaly.bmp
+20 21
+3
+3 200 1
+1 200 1
+2 200 1
+
+MEXICO
+./graphics/spritemexico.bmp
+20 21
+3
+3 200 1
+1 200 1
+2 200 1
+
+JAPAN
+./graphics/spritejapan.bmp
+20 21
+3
+3 200 1
+1 200 1
+2 200 1
+
+STARTER
+./graphics/spritestarter.bmp
+20 21
+1
+3 100 0
+
+JAVELIN
+./graphics/javelin/javelin.bmp
+83 26
+1
+3 400 0
+
